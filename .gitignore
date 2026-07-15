@@ -1,0 +1,28 @@
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+venv311/
+.venv/s
+
+# Streamlit
+.streamlit/
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
